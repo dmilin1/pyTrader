@@ -1,0 +1,1 @@
+An algorithmic trader for Coinbase using neural networks that learn through genetic evolution.
